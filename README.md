@@ -1,8 +1,7 @@
 # Terminal 
+- *Para executar:* java -jar Terminal.jar
 
 ### Interpretador shell de comandos basicos.
-
-
 
 - ls - lista diretório atual.
 --------------------------
